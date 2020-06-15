@@ -11,3 +11,14 @@ by using the code:
 ```
 ParentClass deserialized = gson.fromJson(serialized, ParentClass.class);
 ```
+## Import the project
+The project is developed with Eclipse and uses the Java development tools and BuildShip integraton. Import it as Gradle project.
+## Run the project
+You can run the project on the command line with the gradle command. Execute in the project folder.
+```
+.\gradlew.bat test
+```
+In an IDE like Eclipse you can test the code by running the test in the file
+```
+src/test/java/gsondes/GsonFactoryTest.java
+```
