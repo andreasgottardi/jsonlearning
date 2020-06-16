@@ -22,3 +22,7 @@ In an IDE like Eclipse you can test the code by running the test in the file
 ```
 src/test/java/gsondes/GsonFactoryTest.java
 ```
+## Changelog
+| Version | Description |
+|-|-|
+| 0.0.1 | Basic implementation of de-/serializer for custom class added. |
