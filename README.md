@@ -26,3 +26,4 @@ src/test/java/gsondes/GsonFactoryTest.java
 | Version | Description |
 |-|-|
 | 0.0.1 | Basic implementation of de-/serializer for custom class added. |
+| 0.0.2 | Multi format de-/serializer for GregorianCalendar added. |

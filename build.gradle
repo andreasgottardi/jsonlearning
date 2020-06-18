@@ -10,7 +10,7 @@ apply from: 'https://www.schrotti12.at/logging.gradle'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
-version = '0.0.1'
+version = '0.0.2'
 
 dependencies {
 	implementation 'com.google.code.gson:gson:2.8.6'
